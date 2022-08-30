@@ -1,2 +1,2 @@
-# Complete-Intro-To-CS-Algorithms-Exercises
+# algorithms-exercises
 Created with CodeSandbox
